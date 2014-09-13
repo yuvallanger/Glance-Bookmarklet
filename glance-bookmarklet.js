@@ -1,7 +1,7 @@
 // glance-bookmarklet.js
 // A JavaScript Speed Reader
 // rich@gun.io
-// https://github.com/Miserlou/Glance-Bookmarklet
+// https://github.com/yuvallanger/Glance-Bookmarklet
 
 // Please don't abuse this.
 var readability_token = '172b057cd7cfccf27b60a36f16b1acde12783893';
@@ -19,12 +19,12 @@ function createGlanceBookmarklet(){
         // XXX This won't work in Firefox because an old bug and won't work in Chrome because of security stuff:
         //getURL("glance-bookmarklet.html", function(data){
 
-        //getURL("https://rawgithub.com/Miserlou/Glance-Bookmarklet/master/glance-bookmarklet.html", function(data){
+        //getURL("https://rawgithub.com/yuvallanger/Glance-Bookmarklet/master/glance-bookmarklet.html", function(data){
 
-        getURL("https://rawgithub.com/Miserlou/Glance-Bookmarklet/dev/glance-bookmarklet.html", function(data){
+        getURL("https://rawgithub.com/yuvallanger/Glance-Bookmarklet/dev/glance-bookmarklet.html", function(data){
 
         // XXX Make sure to replace the commit hash with the wanted one.
-        //getURL("https://cdn.rawgit.com/Miserlou/Glance-Bookmarklet/9e92c605032be16c986ed699d68e0acd3534e6b1/glance-bookmarklet.html", function(data){
+        //getURL("https://cdn.rawgit.com/yuvallanger/Glance-Bookmarklet/9e92c605032be16c986ed699d68e0acd3534e6b1/glance-bookmarklet.html", function(data){
 
             var glanceBookmarkletContainer = document.getElementById("glance_bookmarklet_container");
 
