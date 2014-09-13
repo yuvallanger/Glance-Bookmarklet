@@ -62,10 +62,14 @@ security testing before they can be merged directly. Thank you!
 
 * [OpenSpritz-Android](https://github.com/OnlyInAmerica/OpenSpritz-Android) - An Android Spritz ePub Reader by [@OnlyInAmerica](https://github.com/OnlyInAmerica). Also works with Google Glass! 
 * [SpritzerTextView](https://github.com/andrewgiang/SpritzerTextView) - An Android Spritz View by [@andrewgiang](https://github.com/andrewgiang)
+* [OpenSpritz-iOS](https://github.com/Fr4ncis/openspritz-ios) - An OpenSpritz library for iOS and accompanying demo application by [@Fr4ncis](https://github.com/Fr4ncis)
 * [speedread](https://github.com/pasky/speedread) - A terminal Spritzer. by [@pasky](https://github.com/pasky)
 * [jetzt](https://github.com/ds300/jetzt) - jetzt, a Spritz Chrome extension by [@ds300](https://github.com/ds300)
 * [spread0r](https://github.com/xypiie/spread0r) (previously _gritz_) - A Spritz implementation in Perl by [@xypiee](https://github.com/xypiie/)
 * [Spray](https://github.com/chaimpeck/spray) - A Spritzifying website built with OpenSpritz, PHP and Bootstrap. By [@chaimpeck](https://github.com/chaimpeck/) 
+* [Speed-ReaderFF](https://github.com/jbmartinez/speed-readerff) - A Firefox exension of OpenSpritz. By [@jbmartinez](https://github.com/jbmartinez/)
+* [spritz-it!](https://github.com/the-happy-hippo/spritz-it) - A Spritzer designed for mobile browsers. By [@the-happy-hippo](https://github.com/the-happy-hippo/) 
+* [Squirt](https://github.com/cameron/squirt) — another spritzy bookmarklet
 
 #### A Note About the Name
 
